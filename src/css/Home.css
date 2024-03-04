@@ -1,0 +1,15 @@
+screen{
+    position: fixed;
+    max-width: ;
+    height: 200px;
+    background: linear-gradient(to right, white, #ecf2f8, #add8e6);
+    /* Replace #ecf2f8 with your shade of water white and #add8e6 with light blue */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #333; /* Adjust text color for readability */
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+  
+}

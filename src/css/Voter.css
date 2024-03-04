@@ -1,0 +1,119 @@
+.re{
+    position: relative;
+    width: 930px;
+    height: 1000px;
+    left: 350px;
+    bottom: 985px;
+}
+
+.tble{
+    position: relative;
+    top: 100px;
+    left: 50px;
+}
+
+
+.custom-table {
+    width: 450px;
+    border-collapse: collapse;
+    bottom: 10px;
+  }
+  
+  .custom-table th, .custom-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+    height: 30px; /* Adjust the height as needed */
+  }
+  
+  .custom-table th {
+    background-color: #113857;
+    color: white;
+    border-radius: 5px;
+    border: none;
+  }
+
+.data{
+        position: relative;
+        left: 0px;
+        border: 2px solid black;
+        border-radius: 12px;
+        top: 100px;
+        width: 700px;
+        height: 600px;
+        overflow: auto;
+}
+  
+.filter{
+    position: relative;
+    display: flex;
+    background-color: black;
+    width: 200px;
+    float: right;
+    height: 600px;
+    top: 100px;
+    left: 300;
+    border-radius: 12px;
+
+
+
+   
+}
+
+.data table{
+    position: relative;
+    top: 20px;
+ 
+}
+
+#mandal{
+    position: relative;
+    background-color: white;
+    border-radius: 8px;
+    height: 30px;
+}
+
+#id{
+ 
+        position: relative;
+        height: 30px;
+        background-color: white;
+        border-radius: 8px;
+    
+}
+
+#panc{
+    position: relative;
+    background-color: white;
+    border-radius: 8px;
+    height: 30px;
+
+    
+
+}
+#booth{
+    position: relative;
+    height: 30px;
+    background-color: white;
+    border-radius: 8px;
+}
+
+.data h4{
+    position: relative;
+    top: 20px;
+    float: left;
+    left: 10px;
+}
+
+.header{
+    position: relative;
+    background-color: aliceblue;
+    top:30px;
+    width: 1200px;
+    height: 150px;
+}
+
+#tab{
+    position: relative;
+    margin-bottom:2rem;
+}

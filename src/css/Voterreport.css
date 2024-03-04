@@ -1,0 +1,52 @@
+td{
+    background-color: white;
+}
+.ticket-list-badge-p{
+    margin-right: 100%;
+    font-weight: bold;
+    font-size: small;
+    color: #113857; 
+ }
+ #ticket-list-badge-hr{
+    width: 50px;
+ }
+ .custom-hr {
+    border: none;
+    height: 4px;
+    width: 100%;
+    background: linear-gradient(to right, blue 8%, rgb(183, 183, 185) 8%);
+    opacity: 3;
+  }
+  .custom-header-color {
+    background-color: #113857;
+    color: white;
+  }
+
+#text-custom-colot-clear-all{
+    color:#0773e3;
+}
+#ticket-list-filterby{
+    color: #113857;
+}
+#custom-header-color-th{
+    background-color: #113857;
+}
+.custom-body-tickets{
+   background-color: #f5f5f5 ; 
+}
+#filterbox-totaltickets-count{
+    background: #113857;
+    
+}
+#filterbox-totaltickets-count{
+    background: 'linear-gradient(90deg, #e60000 80%, #808080 20%)'; 
+    color: 'white';
+    border-radius: '10%' 
+}
+#custom-status-color{
+    color: orange;
+    font-weight: bold;
+}
+#tickets-top-count{
+    background: #0b73e4;
+}

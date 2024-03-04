@@ -1,0 +1,24 @@
+.slide{
+    position: relative;
+    top: 15px;
+    width: 350px;
+    height: 1000px;
+    background: darkblue;
+}
+
+.reg{
+    position: relative;
+    left: -5px;
+    top: 100px;
+}
+#myDropdown{
+    position: relative;
+    width: 200px;
+    height: 40px;
+    background-color: #013157;
+    color:rgb(227, 199, 199);
+    border: solid 1px black ;
+    border-radius: 10px;
+    left: 10px;
+}
+

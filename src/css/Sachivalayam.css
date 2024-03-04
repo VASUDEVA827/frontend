@@ -1,0 +1,41 @@
+h1{
+    margin-top: 3rem;
+    text-align: center;
+}
+
+.content{
+   
+   position: relative;
+   
+
+}
+.container {
+  
+    margin-top: 3rem;
+    margin-left: 10rem;
+   
+
+  }
+Form.Item{
+    max-width: '30vw';
+   
+}  
+
+.selectStyle {
+  max-width: 50%;
+ margin-left: 2rem;
+  }
+
+.input{
+max-width: 51%;
+}
+
+
+
+.RequestForm .mb-3 {
+  margin-bottom: 16px;
+}
+
+.RequestForm .mb-4 {
+  margin-bottom: 32px;
+}

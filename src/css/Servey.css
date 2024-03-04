@@ -1,0 +1,48 @@
+.screen{
+    position: relative;
+    top: -1009px;
+    background-color: white;
+    width: 1188px;
+    left: 350px;
+    height: 1000px;
+
+}
+
+.login-container{
+    position: relative;
+    margin-left: 50px;
+    top: 20px;
+    width: 600px;
+}
+.login-form{
+    height: auto;
+    width: 300px;
+    
+}
+.chandragiri-map-div h5{
+    position: relative;
+    left: -80px;
+    bottom: 4%;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+
+.mohit h5{
+    position: relative;
+    left: 30rem;
+    display: inline;
+    white-space: nowrap;
+    margin-left: -65%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.mohit h6{
+    position: relative;
+    left: 30rem;
+    display: inline;
+    white-space: nowrap;
+    margin-left: -65%;
+    color: darkblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+

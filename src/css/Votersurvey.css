@@ -1,0 +1,19 @@
+.screen{
+    position: relative;
+    top: -1009px;
+    background-color: white;
+    width: 1188px;
+    left: 350px;
+    height: 1000px;
+
+}
+th, td {
+    padding: 30px;
+    text-align: left;
+    border: solid 2px black;
+  }
+
+  .tbl {
+    position: relative;
+    left: 100px;
+}

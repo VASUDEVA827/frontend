@@ -1,0 +1,14 @@
+.screen{
+    position: relative;
+    top: -1009px;
+    background-color: white;
+    width: 1188px;
+    left: 350px;
+    height: 1000px;
+
+}
+.form{
+    position: relative;
+    height: 600px;
+}
+

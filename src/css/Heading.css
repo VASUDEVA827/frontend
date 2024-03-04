@@ -1,0 +1,102 @@
+.header-color{
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to right,#021B79, #00572E );
+    color: #fff; /* Adjust text color for readability */
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;  
+    height: 100px;
+    margin-left: 100px;
+}
+
+@media (max-wdith:1000px){
+    
+}
+
+
+.main-heading{
+    margin-left: 110px;
+    margin-top: -90px;
+    color: white;
+}
+
+.tag {
+    float: right;
+    font-size: small;
+    margin-top: -20px;
+    margin-right: 180px;
+}
+
+.tag a{
+    color: white;
+}
+
+.govt-logo{
+    position: relative;
+    height: 100px;
+    width: auto;
+    float: left;
+    margin-top: -82px;
+}
+
+.party-logo{
+    height: 100px;
+    width: auto;
+    float: right;
+    margin-left: 1380px;
+    margin-top: -105.5px;
+
+}
+
+.chandragiri-map{
+    height: 150px;
+    float: left;
+    margin-left: 220px;
+    margin-top: 20px;
+}
+
+.map-name{
+    margin-top: 160px;
+    float: left;
+    margin-left: -140px;
+    font-size: small;
+}
+
+.cm-logo{
+    height: 130px;
+    float: right;
+    margin-top: 30px;
+    margin-right: 250px;
+    margin-left: auto;
+}
+
+.bs-reddy{
+    position: relative;
+    float: right;
+    height: 70px;
+    border-radius: 50px;
+    margin-top: -67px;
+    margin-right: 10px;
+
+}
+
+.cm{
+    position: relative;
+    float: right;
+    height: 70px;
+    border-radius: 50px;
+    margin-top: -67px;
+    margin-right: 10px;
+}
+
+.cv-reddy{
+    position: relative;
+    float: right;
+    height: 70px;
+    border-radius: 50px;
+    margin-right: 10px;
+    margin-top: -78px;
+}
