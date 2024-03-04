@@ -13,3 +13,24 @@ screen{
     text-align: center;
   
 }
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  .screen {
+    text-align: center;
+  }
+  
+  img {
+    max-width: 100%;
+  }
+  
+  @media (max-width: 768px) {
+    .container {
+      padding: 0 10px;
+    }
+  }
+  

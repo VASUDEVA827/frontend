@@ -8,7 +8,7 @@ import Voterservey from './Componets/Voterservey';
 import Servey from './Componets/Servey';
 import Volunteer from './Componets/Volunteer';
 
-import Welcome from './Componets/Welcome';
+
 import Voterreport from './Componets/Voterreport';
 import Report from './Componets/Report';
 
@@ -26,6 +26,7 @@ import GenderPieChart from './Componets/New';
 import FileUpload from './Componets/Data';
 import Demo from './Componets/Demo';
 import Admin from './Componets/Admin';
+import Dashboard from './Componets/dashboard';
 
 
 
@@ -41,9 +42,8 @@ function App() {
       
      
       <Routes>
-        <Route path='/' element = {<Welcome />}></Route>
-         <Route path='/nav' element={<Userlogin />}></Route>
-         <Route path='/nav/menu' element={<Home/>}></Route>
+       
+         <Route path='/' element={<Home/>}></Route>
          <Route path='/nav/voterlist' element={<Voter />}></Route>
          <Route path='/nav/voterservey' element={<Voterservey />}></Route>
          <Route path='/nav/servey' element={<Servey/>}></Route>
@@ -61,6 +61,7 @@ function App() {
          <Route path='/nav/revanth' element={<Revanth/>}></Route>
          <Route path='/nav/revanthupdate' element={<Revanth2/>}></Route>
          <Route path='/nav/sachi' element={<Sachi/>}></Route>
+         <Route path='/nav/dashboard' element={<Dashboard/>}></Route>
 
          <Route path='/nav/mandalnew' element={<Mandalsnew />}></Route>
          <Route path='/nav/demo' element={<Demo/>}></Route>

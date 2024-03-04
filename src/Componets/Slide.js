@@ -13,7 +13,7 @@ const Slide = () => {
     <>
     <div className='slide'>
      
-      <Link to="/nav/menu"><h1 style={{color:"white",position:"relative",top:100}}>Menu</h1></Link>
+      <Link to="/"><h1 style={{color:"white",position:"relative",top:100}}>Menu</h1></Link>
       <Link to="/nav/voterlist"><h4 style={{color:"white",position:"relative",top:100}}>Voter</h4></Link>
       <Link to="/nav/servey"><h4 style={{color:"white",position:"relative",top:100}}>Servey</h4></Link>
       <Link to="/nav/voterservey"><h4 style={{color:"white",position:"relative",top:100}}>Votersurvey Report</h4></Link>
